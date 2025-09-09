@@ -1,5 +1,3 @@
-{
- versionName=1.3.0
+versionName=1.3.0
 webpageUrl=https://t.me/RC1Gram/8
 dialogTitle=STelegram v1.4.0
-}
