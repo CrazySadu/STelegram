@@ -1,3 +1,3 @@
-versionName=1.7
-webpageUrl=https://t.me/csmodz_official
+versionName=1.8
+webpageUrl=https://cmmodzapp.blogspot.com/2026/04/cmtelegram-v18.html?m=1
 dialogTitle=CMGram v1.8
